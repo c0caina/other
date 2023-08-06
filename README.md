@@ -6,4 +6,6 @@ REST API built on a Fiber framework with Swagger documentation, a PostgreSQL dat
 1) Install [Docker](https://docs.docker.com/engine/install)
 2) Launch `docker-compose.yaml` at the root of the project
    
-   ```docker compose up```
+```
+docker compose up
+```
