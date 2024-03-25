@@ -1,0 +1,22 @@
+{
+  "ignition": {
+    "version": "3.0.0"
+  },
+  "passwd": {
+    "users": [
+      {
+        "name": "admin",
+        "passwordHash": "$y$j2O$tCfElP5T0mXr0YQqJw3wz0"
+      }
+    ]
+  },
+  "storage": {},
+  "systemd": {
+    "units": [
+      {
+        "name": "sshd-keygen.service",
+        "enabled": false
+      }
+    ]
+  }
+}
